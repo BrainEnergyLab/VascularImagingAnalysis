@@ -1,2 +1,4 @@
 # VascularImagingAnalysis
-Code used in Brain Energy Lab to analyse in vivo vascular responses.
+This repository contains the code used to extract the in vivo vascular responses recorded using two-photon microscopy or optical imaging spectroscopy for the following papers:
+1. Bonnar, O., Shaw, K., Anderle, S., Grijseels, D. M., Clarke, D., Bell, L., King, S. L., & Hall, C. N. (2023). APOE4 expression confers a mild, persistent reduction in neurovascular function in the visual cortex and hippocampus of awake mice. Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism, 43(11), 1826–1841. https://doi.org/10.1177/0271678X231172842
+2. Anderle, A., Bonnar, O., Henderson, J., Shaw, K., Chagas, A., McMullan, L., & Hall, C. N. (In Preparation). APOE4 and sedentary lifestyle synergistically impair neurovascular function in visual cortex of awake mice.
